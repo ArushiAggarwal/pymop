@@ -1,5 +1,6 @@
+JPype1==1.6.0
 pytest
-JPype1
+python-dotenv
 nltk
 numpy
 # forbiddenfruit
